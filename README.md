@@ -110,3 +110,47 @@ Tujuan penggunaan conditional statement pada contoh tersebut adalah untuk menamb
 Dalam program sistem jadwal layanan dokter terdapat beberapa kondisi yang bergantung pada pilihan user yaitu antara lain:
 
 ### 1. Kondisi pertama: Jika user memilih nomor 1 pada menu utama
+<img width="1348" height="1079" alt="Screenshot 2025-09-14 133223" src="https://github.com/user-attachments/assets/18d49150-9bc3-4b57-91c5-b1ff876a9e6c" />
+Berdasarkan gambar tersebut dapat dilihat bahwa program akan menampilkan jadwal dokter spesialis gigi jika user memilih nomor 1. 
+
+### 2. Kondisi kedua: Jika user memilih nomor 2 pada menu utama 
+<img width="1403" height="1076" alt="Screenshot 2025-09-14 133357" src="https://github.com/user-attachments/assets/46451ce8-e4a7-46bb-b7ec-2be76832c289" />
+Berdasarkan gambar tersebut dapat dilihat bahwa program akan menampilkan jadwal dokter spesialis anak jika user memilih nomor 2.
+
+### 3. Kondisi ketiga: Jika user memilih nomor 3 pada menu utama 
+<img width="1402" height="1079" alt="Screenshot 2025-09-14 133512" src="https://github.com/user-attachments/assets/c818a749-ad1d-4da2-af36-851ae3e8d49c" />
+Berdasarkan gambar tersebut dapat dilihat bahwa program akan menampilkan jadwal dokter spesialis mata jika user memilih nomor 3.
+
+### 4. Kondisi keempat : Jika user memilih nomor 4 pada menu utama
+<img width="1407" height="1079" alt="Screenshot 2025-09-14 135242" src="https://github.com/user-attachments/assets/bec2653e-d262-4282-905f-52f6cc24e0f4" />
+Berdasarkan gambar tersebut, jika user memilih menu nomor 4 yaitu tambah jadwal dokter maka akan terbagi menjadi beberapa kondisi lagi yaitu sebagai berikut:
+
+#### 4.1 Kondisi pertama : Jika user memilih nomor 1 pada menu spesialis
+<img width="1405" height="1079" alt="Screenshot 2025-09-14 140240" src="https://github.com/user-attachments/assets/d85b9137-e1c9-4cee-b987-c9d76057a63a" />
+Berdasarkan gambar tersebut, dapat dilihat bahwa jika user memilih nomor 1 pada menu spesialis yaitu dokter gigi maka program akan menambahkan jadwal baru yang data nya sudah dilengkapi oleh user ke dalam list jadwal dokter gigi sesuai dengan hari yang sudah ditentukan.
+
+#### 4.2 Kondisi kedua : Jika user memilih nomor 2 pada menu spesialis
+<img width="1405" height="1079" alt="Screenshot 2025-09-14 142155" src="https://github.com/user-attachments/assets/37edefff-d076-46e4-8f45-0cec9d410d38" />
+Berdasarkan gambar tersebut, dapat dilihat bahwa jika user memilih nomor 2 pada menu spesialis yaitu dokter anak maka program akan menambahkan jadwal baru yang data nya sudah dilengkapi oleh user ke dalam list jadwal dokter anak sesuai dengan hari yang sudah ditentukan.
+
+#### 4.3 Kondisi ketiga : Jika user memilih nomor 3 pada menu spesialis
+<img width="1403" height="1079" alt="Screenshot 2025-09-14 143444" src="https://github.com/user-attachments/assets/6254f086-6215-440c-957a-0745bbb34106" />
+Berdasarkan gambar tersebut, dapat dilihat bahwa jika user memilih nomor 3 pada menu spesialis yaitu dokter mata maka program akan menambahkan jadwal baru yang data nya sudah dilengkapi oleh user ke dalam list jadwal dokter mata sesuai dengan hari yang sudah ditentukan.
+
+#### 4.4 Kondisi keempat : Jika user memilih opsi yang tidak terdapat pada menu spesialis 
+<img width="1008" height="1022" alt="Screenshot 2025-09-14 144118" src="https://github.com/user-attachments/assets/eb54c8ff-39e3-40b9-b3bb-677f5ea1e7ff" />
+Berdasarkan gambar tersebut, dapat dilihat bahwa jika user memilih opsi yang tidak terdapat dalam menu spesialis maka program akan menampilkan pesan bahwa menu tidak valid. Kondisi ini menjadi kondisi terakhir dari kondisi keempat pada menu utama 
+
+### 5. Kondisi kelima : Jika user memilih opsi yang tidak terdapat pada menu utama
+<img width="1006" height="1020" alt="Screenshot 2025-09-14 145004" src="https://github.com/user-attachments/assets/6f4803f4-091e-4d15-a959-25dbc018e1dd" />
+Berdasarkan gambar tersebut, dapat dilihat bahwa jika user memilih opsi yang tidak terdapat dalam menu utama maka program akan menampilkan pesan bahwa menu tidak valid. Kondisi ini menjadi kondisi terakhir dari menu utama.
+
+
+
+
+
+
+
+
+
+
